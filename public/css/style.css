@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow&family=Open+Sans&family=Poppins&family=Roboto&display=swap');
+
+.form-control{
+    width: 110%;
+}
+
+body{
+ font-family: 'Roboto', sans-serif;;
+}
+.font-size-09{
+    font-size: 0.9em;
+}
+input:focus{
+    box-shadow:none !important;
+    outline:none !important;
+}
